@@ -68,7 +68,8 @@ nav a.active {
     padding: 40px 20px;
 }
 
-.page-banner {
-    min-height: 270px;
-    background: linear-gradient(135deg, rgba(43, 20, 8, 0.88), rgba(122, 53, 20, 0.85)),
-        url('
+.btn {
+    display: inline-block;
+    background: #1b5e20; /* Manually changed to deep tea-leaf green */
+    color: #ffffff;
+    padding: 16px 34px;}
